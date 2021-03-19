@@ -1,19 +1,19 @@
 
 @font-face {
     font-family: "Nordica";
-    src: url("resources/fonts/nordica/NordicaRegular.otf") format("otf");
+    src: url("fonts/nordica/NordicaRegular.otf") format("otf");
     font-weight: normal;
   }
 
 @font-face {
     font-family: "Nordica Thin";
-    src: url("resources/fonts/nordica/NordicaThin.otf") format("otf");
+    src: url("fonts/nordica/NordicaThin.otf") format("otf");
     font-weight: normal;
 }
 
 @font-face {
     font-family: "Nordica Hairline";
-    src: url("resources/fonts/nordica/NordicaHairline.otf") format("otf");
+    src: url("fonts/nordica/NordicaHairline.otf") format("otf");
     font-weight: normal;
 }
 
@@ -25,7 +25,7 @@ html {
 }
 
 header {
-    background-image: url("resources/images/background.png");
+    background-image: url("images/background.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
